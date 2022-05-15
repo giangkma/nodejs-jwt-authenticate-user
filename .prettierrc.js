@@ -6,4 +6,4 @@ module.exports = {
     trailingComma: 'all',
     tabWidth: 4,
 };
-s
+ss
