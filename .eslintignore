@@ -1,4 +1,4 @@
-# /node_modules/* in the project root is ignored by defaultưs
+# /node_modules/* in the project root is ignored by defaultưss
 # build artefacts
 dist/*
 coverage/*
